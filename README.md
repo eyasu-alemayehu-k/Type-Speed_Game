@@ -8,5 +8,5 @@
 
 Website Link : [Typing-Speed-Game]('')
 
-* Home page
+* Preview
 ![Website Review](./Review.png)
