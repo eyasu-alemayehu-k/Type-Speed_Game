@@ -6,7 +6,7 @@
 - Html
 - Css
 
-Website Link : [Typing-Speed-Game]('https://eyasu-alemayehu-k.github.io/Type-Speed_Game/')
+Website Link : [Typing-Speed-Game]('https://eyasu-alemayehu-k.github.io/Type-Speed_Game/index.html')
 
 * Preview
 ![Website Review](./Review.png)
